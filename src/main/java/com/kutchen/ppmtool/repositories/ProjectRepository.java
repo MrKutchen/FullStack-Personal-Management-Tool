@@ -1,4 +1,4 @@
-package com.kutchen.ppmtool.repsitories;
+package com.kutchen.ppmtool.repositories;
 
 import com.kutchen.ppmtool.model.Project;
 import org.springframework.data.repository.CrudRepository;
